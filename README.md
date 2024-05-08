@@ -7,6 +7,18 @@
 -->
 <h1>Hi 👋, I'm Longmo</h1>
 <p>A passionate frontend developer from China</p>
+
+<!-- 个人资料 -->
+<p align="center"> 
+
+<a href="https://space.bilibili.com/248956095" target="_blank"><img align="center" src="https://img.shields.io/badge/Bilibili-B站-%23df1a7c?style=flat"/></a>
+&emsp;
+<a href="http://longmo666.gitee.io/longmo-blog" target="_blank"><img align="center"  src="https://img.shields.io/badge/Docs-文档站-%231a41df?style=flat"/></a>
+&emsp;
+<a href="https://komarev.com/ghpvc/?username=long36708&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=long36708&abbreviated=true"/></a>
+
+</p>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -24,20 +36,11 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 </p>
 
-<!-- 个人资料 -->
-<p align="center"> 
-
-<a href="https://space.bilibili.com/248956095" target="_blank"><img align="center" src="https://img.shields.io/badge/Bilibili-B站-%23df1a7c?style=flat"/></a>
-&emsp;
-<a href="http://longmo666.gitee.io/longmo-blog" target="_blank"><img align="center"  src="https://img.shields.io/badge/Docs-文档站-%231a41df?style=flat"/></a>
-&emsp;
-<a href="https://komarev.com/ghpvc/?username=long36708&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=long36708&abbreviated=true"/></a>
-
-</p>
 
 <div align="center">
   <a href="https://long36708.github.io/long-press/">
     <img src="https://github.com/long36708/long36708/blob/readmeresources/img/grid-snake.svg" alt="snake">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
   </a>
 </div>
 
