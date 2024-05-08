@@ -39,8 +39,7 @@
 
 <div align="center">
   <a href="https://long36708.github.io/long-press/">
-    <img src="https://github.com/long36708/long36708/blob/readmeresources/img/grid-snake.svg" alt="snake">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+    <img src="https://github.com/long36708/long36708/blob/main/resources/img/grid-snake.svg" alt="snake">
   </a>
 </div>
 
