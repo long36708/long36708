@@ -8,7 +8,7 @@
 <h1>Hi 👋, I'm Longmo</h1>
 <p>A passionate frontend developer from China</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C669F7&background=42FFF700&random=false&width=435&lines=Talk+is+cheap%2Cshow+me+the+code!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C669F7&background=42FFF700&random=false&width=435&lines=Talk+is+cheap%2Cshow+me+the+code!)](https://github.com/long36708)
 
 <!-- 个人资料 -->
 <p align="center"> 
