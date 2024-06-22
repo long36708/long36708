@@ -1,5 +1,5 @@
-# 是龙陌吖 👋
-
+# 是龙陌吖 👋 
+![long36708](https://komarev.com/ghpvc/?username=long36708)
 <!--
 [![Longmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=long36708&show_icons=true&theme=ambient_gradient&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">[![AlbertZhang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=long36708)](https://github.com/anuraghazra/github-readme-stats)</p>
@@ -16,7 +16,6 @@
 [//]: # (<a href="https://space.bilibili.com/248956095" target="_blank"><img align="center" src="https://img.shields.io/badge/Bilibili-B站-%23df1a7c?style=flat"/></a>)
 
 [//]: # (&emsp;)
-
 
 <a href="http://longmo666.gitee.io/longmo-blog" target="_blank"><img align="center" src="https://img.shields.io/badge/Docs-文档站-%231a41df?style=flat"/></a>
 &emsp;
