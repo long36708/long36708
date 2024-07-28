@@ -67,10 +67,10 @@
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/long36708/long36708/blob/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <a href="https://long36708.github.io/long-press/">  
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <img alt="github-snake" src="https://github.com/long36708/long36708/blob/main/resources/img/grid-snake.svg" />
   </a>
 </picture>
 
