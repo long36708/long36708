@@ -1,4 +1,5 @@
-# 是龙陌吖 👋 
+# 是龙陌吖 👋
+
 ![long36708](https://komarev.com/ghpvc/?username=long36708)
 <!--
 [![Longmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=long36708&show_icons=true&theme=ambient_gradient&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,7 +21,7 @@
 <a href="http://longmo666.gitee.io/longmo-blog" target="_blank"><img align="center" src="https://img.shields.io/badge/Docs-文档站-%231a41df?style=flat"/></a>
 &emsp;
 <a href="https://komarev.com/ghpvc/?username=long36708&abbreviated=true" target="_blank">
-    <img align="center" src="https://komarev.com/ghpvc/?username=long36708&abbreviated=true"/>
+<img align="center" src="https://komarev.com/ghpvc/?username=long36708&abbreviated=true"/>
 </a>
 &emsp;
 <a title="bilibili" target="_blank" href="https://space.bilibili.com/248956095">
@@ -54,11 +55,24 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 </p>
 
-<div align="center">
-  <a href="https://long36708.github.io/long-press/">
-    <img src="https://github.com/long36708/long36708/blob/main/resources/img/grid-snake.svg" alt="snake">
+[//]: # (<div align="center">)
+
+[//]: # (  <a href="https://long36708.github.io/long-press/">)
+
+[//]: # (    <img src="https://github.com/long36708/long36708/blob/main/resources/img/grid-snake.svg" alt="snake">)
+
+[//]: # (  </a>)
+
+[//]: # (</div>)
+
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <a href="https://long36708.github.io/long-press/">  
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </a>
-</div>
+</picture>
 
 ## 技术栈🛠️
 
