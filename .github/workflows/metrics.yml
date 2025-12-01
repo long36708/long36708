@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories,
           config_timezone: Asia/Shanghai
-          repositories_skipped: long36708
+          # repositories_skipped: long36708
           optimize: svg
           experimental_features: --optimize-svg
 

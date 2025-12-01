@@ -38,6 +38,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/long36708/count.svg)
 
+<!-- GitHub Metrics -->
+![GitHub Metrics](https://github.com/long36708/long36708/blob/main/github-metrics/base.svg)
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -67,10 +70,10 @@
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/long36708/long36708/blob/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/long36708/long36708/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/long36708/long36708/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <a href="https://long36708.github.io/long-press/">  
-    <img alt="github-snake" src="https://github.com/long36708/long36708/blob/main/resources/img/grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/long36708/long36708/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
   </a>
 </picture>
 
