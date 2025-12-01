@@ -1,11 +1,12 @@
 name: Metrics
 on:
-  # Schedule daily updates
+  # 每天北京时间23点自动运行
   schedule: [{cron: "0 23 * * *"}]
-  # (optional) Run workflow manually
+  # 允许手动触发工作流
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
+  # 推送到主分支时自动运行
   push: {branches: ["master", "main"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -14,26 +15,42 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # 输出文件路径
           filename: github-metrics/base.svg
-          # Your GitHub token
+          # GitHub token，用于访问API数据
           token: ${{ secrets.METRICS_TOKEN }}
+          # 基础信息：包含头部和仓库列表
           base: header, repositories,
+          # 时区设置
           config_timezone: Asia/Shanghai
+          # 跳过的仓库（已注释，包含自己的仓库）
           # repositories_skipped: long36708
+          # SVG优化
           optimize: svg
+          # 实验性优化功能
           experimental_features: --optimize-svg
 
+          # 编码习惯插件：显示编程时间和频率
           plugin_habits: yes
+          # 显示编码习惯的事实数据
           plugin_habits_facts: yes
+          # 不显示编码习惯图表
           plugin_habits_charts: no
 
+          # 日历插件：显示贡献热力图
           plugin_isocalendar: yes
 
+          # 编程语言插件：显示使用的编程语言统计
           plugin_languages: yes
-          plugin_languages_ignored: javascript
+          # 忽略统计的语言（忽略JavaScript）
+          # plugin_languages_ignored: javascript
+          # 最多显示的语言数量
           plugin_languages_limit: 5
 
+          # 代码行数插件：显示总代码行数
           plugin_lines: yes
 
-          plugin_stargazers: yes
+          # 星标插件：显示获得星标的情况
+          plugin_stargazers: no
+          # 星标图表类型：使用chartist图表库
           plugin_stargazers_charts_type: chartist
