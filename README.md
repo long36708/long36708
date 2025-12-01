@@ -1,6 +1,4 @@
 # 是龙陌吖 👋
-
-![long36708](https://komarev.com/ghpvc/?username=long36708)
 <!--
 [![Longmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=long36708&show_icons=true&theme=ambient_gradient&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">[![AlbertZhang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=long36708)](https://github.com/anuraghazra/github-readme-stats)</p>
