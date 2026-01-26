@@ -34,7 +34,7 @@
 
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/long36708/count.svg)
+[![longmo profile views](https://u8views.com/api/v1/github/profiles/63832356/views/day-week-month-total-count.svg)](https://u8views.com/github/long36708)
 
 <!-- GitHub Metrics -->
 ![GitHub Metrics](https://github.com/long36708/long36708/blob/main/github-metrics/base.svg)
